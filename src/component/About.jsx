@@ -20,7 +20,7 @@ const About = () => {
           I post useful content related to Web Development and Programming.
           I'm open to Job opportunities where I can contribute, learn and grow.
           If you have a good opportunity that matches my skills and experience
-          then don't hesitate to contact me.jhjhjh
+          then don't hesitate to contact me.
         </p>
       </div>
     </div>
