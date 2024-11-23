@@ -6,7 +6,7 @@ Portfolio Website
 This project is a personal portfolio website built using React and designed with Tailwind CSS, showcasing my skills, projects, and contact information.
 
 Live Demo
-View the live demo: https://portfolio-react-xi-snowy.vercel.app/
+View the live demo: https://portfolio-eight-eta-13.vercel.app/
 
 Technologies Used
 React,
@@ -33,7 +33,7 @@ Run the application:
 
 
 npm start
-This will start a local development server. Open https://portfolio-react-xi-snowy.vercel.app/ to view it in the browser.
+This will start a local development server. Open (https://portfolio-eight-eta-13.vercel.app/) to view it in the browser.
 
 Usage
 Modify the content in src/components/ directory to customize the portfolio sections.
